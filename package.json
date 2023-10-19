@@ -13,10 +13,10 @@
     "url": "git+https://github.com/cobiwave/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+
   },
   "homepage": "https://github.com/cobiwave/simplefolio#readme",
   "devDependencies": {
